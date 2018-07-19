@@ -1,6 +1,6 @@
 # AgileEngine backend-XML java snippets
 
-@Author Juan Valero
+Juan Valero
 
 It is built on top of [Jsoup](https://jsoup.org/).
 
